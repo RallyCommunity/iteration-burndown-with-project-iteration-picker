@@ -1,4 +1,4 @@
-IterationBurndown report with Project and Iteration dropdowns
+IterationBurndown report with Project and Iteration pickers
 =========================
 
 ## Overview
